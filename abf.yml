@@ -1,0 +1,5 @@
+# ABF file-store mapping. Upload llvm-propeller-23-23.0.0.tar.xz to the
+# ABF file store (e.g. via `abb store`), then verify the SHA1 below
+# matches what the store reports.
+sources:
+  llvm-propeller-23-23.0.0.tar.xz: b4bac15033d42cdde2043af522d5217787d8d1f5
